@@ -19,24 +19,32 @@ README.rdoc
 .bundle
 *.swp
 *.gitkeep
+=======
+>>>>>>> d45dc1578bb9a87cbe51c2463025f547d0463043
 *.rbc
 *.sassc
 .sass-cache
 capybara-*.html
 .rspec
+<<<<<<< HEAD
 /vendor/bundle
+=======
 /.bundle
 /vendor/bundle
 /log/*
 /tmp/*
 /db/*.sqlite3
+>>>>>>> d45dc1578bb9a87cbe51c2463025f547d0463043
 /public/system/*
 /coverage/
 /spec/tmp/*
 **.orig
 rerun.txt
+<<<<<<< HEAD
 pickle-email-*.html
 /config/database.yml
 .ruby-version
 *.keep
+=======
 pickle-email-*.html
+>>>>>>> d45dc1578bb9a87cbe51c2463025f547d0463043
