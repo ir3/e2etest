@@ -24,6 +24,7 @@ README.rdoc
 .sass-cache
 capybara-*.html
 .rspec
+/config/database.yml
 /vendor/bundle
 /.bundle
 /vendor/bundle
@@ -36,7 +37,5 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-/config/database.yml
 .ruby-version
 *.keep
-pickle-email-*.html
