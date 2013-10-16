@@ -14,7 +14,8 @@ group :development, :test do
   gem 'rspec-rails'
 #  gem 'rspec-rerun', require: false
   gem 'sqlite3'
-  gem 'spork'
+#  gem 'spork'
+  gem 'spork', '~> 1.0.0rc3'
   gem 'systemu'
   gem 'turnip'
 end
