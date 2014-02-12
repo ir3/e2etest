@@ -1,15 +1,15 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 4.0.0'
+gem 'rails', '~> 4.0.2'
 
 group :development, :test do
-  gem 'capybara-webkit', '~> 1.0.0'
+  gem 'capybara-webkit'
   gem 'debugger'
   gem 'pry-rails'
   gem 'rack-contrib'
   gem 'rspec-rails'
   gem 'sqlite3'
-  gem 'spork', '~> 1.0.0rc3'
+  gem 'spork', '~> 1.0.0rc4'
   gem 'systemu'
   gem 'turnip'
 end
